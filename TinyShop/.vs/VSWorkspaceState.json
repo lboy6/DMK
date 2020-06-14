@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\TinyShop",
+    "\\TinyShop\\bin",
+    "\\TinyShop\\bin\\Debug",
+    "\\TinyShop\\bin\\Debug\\netcoreapp3.1",
+    "\\TinyShop\\Data",
+    "\\TinyShop\\Models",
+    "\\TinyShop\\obj",
+    "\\TinyShop\\Properties",
+    "\\TinyShop\\Views"
+  ],
+  "SelectedNode": "\\TinyShop\\Views\\Product",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,8 @@
+C:\Users\mac\Desktop\Work4\TinyShop\TinyShop\Data\Data\bin\Debug\netcoreapp2.1\Data.deps.json
+C:\Users\mac\Desktop\Work4\TinyShop\TinyShop\Data\Data\bin\Debug\netcoreapp2.1\Data.dll
+C:\Users\mac\Desktop\Work4\TinyShop\TinyShop\Data\Data\obj\Debug\netcoreapp2.1\Data.csprojAssemblyReference.cache
+C:\Users\mac\Desktop\Work4\TinyShop\TinyShop\Data\Data\obj\Debug\netcoreapp2.1\Data.csproj.CoreCompileInputs.cache
+C:\Users\mac\Desktop\Work4\TinyShop\TinyShop\Data\Data\obj\Debug\netcoreapp2.1\Data.AssemblyInfoInputs.cache
+C:\Users\mac\Desktop\Work4\TinyShop\TinyShop\Data\Data\obj\Debug\netcoreapp2.1\Data.AssemblyInfo.cs
+C:\Users\mac\Desktop\Work4\TinyShop\TinyShop\Data\Data\bin\Debug\netcoreapp2.1\Data.runtimeconfig.json
+C:\Users\mac\Desktop\Work4\TinyShop\TinyShop\Data\Data\bin\Debug\netcoreapp2.1\Data.runtimeconfig.dev.json

@@ -1,0 +1,19 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Controllers",
+    "\\Data",
+    "\\Data\\Data",
+    "\\Data\\Data\\bin",
+    "\\Data\\Data\\bin\\Release",
+    "\\ProductController\\ProductController",
+    "\\ProductController\\ProductController\\bin",
+    "\\ProductController\\ProductController\\obj",
+    "\\Service",
+    "\\Views",
+    "\\Views\\Home",
+    "\\Views\\Login"
+  ],
+  "SelectedNode": "\\Data\\Data.sln",
+  "PreviewInSolutionExplorer": false
+}
